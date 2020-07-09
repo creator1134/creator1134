@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**creator1134/creator1134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at **@Newgen** as **SSE**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning JavaScript & hybrid mobile app development.
+
+- 💬 Ask me about **Javascript, cordova, flutter, hybrid mobile Platform **
+
+- 📫 How to reach me: mailto:me@umeshk.dev
+
+- Professional Networking **[LinkedIn](https://linkedin.com/in/umesh1134)**
+
+- ⚡ Fun fact: 
+
