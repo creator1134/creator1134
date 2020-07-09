@@ -7,9 +7,10 @@
 
 - 💬 Ask me about **Javascript, cordova, flutter, hybrid mobile Platform **
 
-- 📫 How to reach me: mailto:me@umeshk.dev
+- 📫 How to reach me: me@umeshk.dev
 
 - Professional Networking **[LinkedIn](https://linkedin.com/in/umesh1134)**
 
+- Checkout my website : **https://umeshk.dev/**
 - ⚡ Fun fact: 
 
