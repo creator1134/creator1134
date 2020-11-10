@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at **@Newgen** as **SSE**
+- 🔭 I’m currently working at **@Fidelity International** as **SSE**
 
 - 🌱 I’m currently learning JavaScript & hybrid mobile app development.
 
