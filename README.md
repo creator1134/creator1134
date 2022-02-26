@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning JavaScript & hybrid mobile app development.
 
-- 💬 Ask me about **Javascript, cordova, flutter, hybrid mobile Platform **
+- 💬 Ask me about **Javascript, cordova, hybrid mobile Platform **
 
 - 📫 How to reach me: me@umeshk.dev
 
